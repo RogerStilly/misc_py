@@ -1,3 +1,6 @@
+## ThinkPython Excercise 3.5
+## creates a 4x4 grid.
+
 def horizontals():
     print('+ - - - - + - - - - + - - - - + - - - - +')
 
