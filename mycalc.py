@@ -1,7 +1,8 @@
 ## Program name: mycalc.py
-## Programming Fundamentals CS-1101
+## Programming Fundamentals CS-1101 Unit 5
 ## University of the People (UoPeople)
 ## Dec 2015
+## Roger Stillick Jr.
 ##
 ## Purpose: create a calculator. This was challenging, because many
 ## bugs presented themselves, such as dividing by zero, or when using
