@@ -1,12 +1,14 @@
 ## Program name: bool.py
-## Programming Fundamentals CS-1101
-## University of the People (UoPeople)
-## Dec 2015
+## By Roger Stillick
+## UoPeople CS-1101 Programming Fundamentals Unit 6 Programming Assignment
+## December 2015
 ##
-## Purpose: demonstrate, using comparison operators and if statments to 
-## compare two numbers that were inputed by the user.
-##
-##
+## The purpose of this program is to demonstrate, using comparison
+## operators and if statments to compare two numbers that were inputed
+## by the user.
+
+## Compare function, compares two numbers and returns 1, 0, or -1,
+## depending on the condition.
 def compare(a, b):
 
     if a > b:
@@ -18,6 +20,9 @@ def compare(a, b):
     elif a < b:
         return -1
 
+## This function gets the input for the two numbers, and takes them in
+## as a float.  The try/except statements ensures that only valid
+## numbers are accepted.
 def get_number(value):
 
         
